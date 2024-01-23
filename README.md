@@ -6,7 +6,7 @@ Section: 3
 
 Team Mates:
 1. SITI NURFARAHANIM BINTI MOHD ISA (2119316)
-2. __Fill name__ and __matric no__
+2. __Fill name__ and __matric n
 
 
 ## Rules
