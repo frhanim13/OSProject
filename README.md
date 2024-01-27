@@ -76,23 +76,23 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
-1. Run the command **pwd** . ***(1 mark)*** __Fill answer here__.
-2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__. ![Alt text](q2-1.PNG)
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
-5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
-6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
-7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
-8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
-9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
-10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
-11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
-12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
-14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
-15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+1. Run the command **pwd** . ***(1 mark)*** __ ![Alt text](q1.PNG) __
+2. Run the command **cat /etc/passwd** . ***(1 mark)*** __ ![Alt text](q2-1.PNG) __
+3. Run the command **df** . ***(1 mark)*** __ ![Alt text](q3.PNG) __
+4. Run the command **du** . ***(1 mark)*** __ ![Alt text](q4p1.PNG) / ![Alt text](q4p2.PNG) __
+5. Run the command **ls** . ***(1 mark)*** __ ![Alt text](q5.PNG) __
+6. Run the command **ls -asl** . ***(1 mark)*** __ ![Alt text](q6.PNG) __
+7. Run the command **free -h** . ***(1 mark)*** __ ![Alt text](q7.PNG) __
+8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __ ![Alt text](q8p1.PNG) / ![Alt text](q8p2.PNG) __
+9. Run the command **top** and type **q** to quit. ***(1 mark)*** __ ![Alt text](q9.PNG) __
+10. Run the command **uname -a**. ***(1 mark)*** __ ![Alt text](q10.PNG) __
+11. What is the available free memory in the system. ***(1 mark)*** __148Mi__.
+12. What is the available disk space mounted on /workspace. ***(1 mark)*** __17516344__.
+13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Linux codespaces-521c8f 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux__.
+14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __The ls command is used to list files and directories in Linux. The ls -asl command displays some additional details__.
+15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __2560 4K pages__.
+16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __3165.560__.
+17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __10:44:13 up 38 min, 0 users, load average: 1.05, 0.39, 0.28__.
 
 ## Running your own container instance.
 
