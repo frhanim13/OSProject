@@ -6,7 +6,7 @@ Section: 3
 
 Team Mates:
 1. SITI NURFARAHANIM BINTI MOHD ISA (2119316)
-2. Aisha Mohammed Alwan (2125992)
+2. Aisha Mohammed Alwan Aljuboori (2125992)
 
 
 ## Rules
