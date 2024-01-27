@@ -6,7 +6,7 @@ Section: 3
 
 Team Mates:
 1. SITI NURFARAHANIM BINTI MOHD ISA (2119316)
-2. __Fill name__ and __matric n
+2. Aisha Mohammed Alwan (2125992)
 
 
 ## Rules
