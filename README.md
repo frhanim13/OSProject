@@ -9,23 +9,16 @@ Team Mates:
 2. Aisha Mohammed Alwan Aljuboori (2125992)
 
 
-## Rules
-1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
-2. When you complete the project, make sure to submit the repository link of your cloned project. Make sure all the files are as what you aspect in your repository. 
-3. Answer all questions in the **README.md**, in your own repository. Either use the online VSCode, terminal or github to edit. Answers are expected where you see __Fill answer here__.
-4. Learn how to use markdown. https://www.w3schools.io/file/markdown-introduction/
-
-## Forking this OS project repository
-1. First thing you need in doing this project is to have a github account. Make sure to sign up at https://www.github.com
-2. The second thing you need is to fork the OS project repository in your own github account. 
-
-    1. Go to https://github.com/joeynor/OSProject and click fork to copy the project into your own repository
-    2. Make sure that the new fork is now in your own repository
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __Fill answer here__.
-2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork OSProject in your repository. ***(1 mark)*** https://github.com/frhanim13/OSProject
+2. How many files and folders are in this repository. ***(1 mark)***
+   <ol type="a">
+  <li>1 readme.md </li>
+  <li>1 images folder </li>
+  <li>List 3</li>
+</ol> 
 
 
 ## Exploring github codespaces
@@ -57,7 +50,7 @@ Team Mates:
 
 ***Questions:***
 
-1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Fill answer here__.
+1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***  Ubuntu linux 
 2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
 3. Why must we commit and sync our current work on source control? ***(1 mark)*** __Fill answer here__.
 
@@ -206,8 +199,8 @@ docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ 
 ***Questions:***
 
 1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)*** __Fill answer here__.
-2. What port is the apache web server running. ***(1 mark)***
-3. What port is open for http protocol on the host machine? ***(1 mark)***
+2. What port is the apache web server running. ***(1 mark)*** 8080
+3. What port is open for http protocol on the host machine? ***(1 mark)*** 80 
 
 ## What to submit
 
