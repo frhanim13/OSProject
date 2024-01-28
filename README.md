@@ -89,18 +89,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 
 
-1. In the previous experiment, you might have notice that containers are not persistent. To make storage persistent, you will need to mount them. 
-At the terminal, create a new directory called **myroot**, and run a instance of debian linux and mount myroot to the container. Find out the exact path of my root, and mount it as the root folder in the debian container. 
-2. Create a file in /root on the container, the files should also appear in myroot of your host VM.
 
-```bash 
-@joeynor ➜ /workspaces/OSProject (main) $ mkdir myroot
-@joeynor ➜ /workspaces/OSProject (main) $ cd myroot/
-@joeynor ➜ /workspaces/OSProject/myroot (main) $ pwd
-/workspaces/OSProject/myroot
-
-@joeynor ➜ /workspaces/OSProject/myroot (main) $ docker run --detach -it -v /workspaces/OSProject/myroot:/root debian
-```
 
 ***Questions:***
 
