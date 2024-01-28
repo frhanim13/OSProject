@@ -65,8 +65,6 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/b4ed1140-c61e-4446-9209-b9ab376483c2">
 
-<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/34264cf6-db7e-4de2-9376-6516b2ad4bd2">
-
 <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/d0203b5e-91fa-461d-9a03-43483bbc47df">
 
 
