@@ -5,7 +5,7 @@ Group Name: __Fill your team name__.
 Section: 3
 
 Team Mates:
-1. SITI NURFARAHANIM BINTI MOHD ISA (2119316)
+1. Siti Nurfarahanim Binti Mohd Isa  (2119316)
 2. Aisha Mohammed Alwan Aljuboori (2125992)
 
 
@@ -20,8 +20,8 @@ Team Mates:
 ***Questions:***
 
 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***  Ubuntu linux 
-2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***  <br>  <img width="763" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/0b36287a-5e55-47fa-b63a-ebece7a02850">  <br> 
-Option 1 :
+2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***  <br>  <img width="763" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/0b36287a-5e55-47fa-b63a-ebece7a02850"><br> 
+OPTION 1:
 
 RAM : 8 GB  <br> 
 DISK: 32 GB  <br> 
