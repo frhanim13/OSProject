@@ -165,25 +165,6 @@ sudo chown -R codespace:codespace myroot
 
 ## You are on your own, create your own static webpage
 
-1. Create a directory called webpage in your host machine
-2. Inside the directory, create a page index.html, with any content you would like
-3. Then, run the apache webserver and mount the webpage directory to it. Hint:
-```bash
-## the -p 8080:80 flag points the host port 8080 to the container port 80
-
-docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ -p 8080:80 httpd
-```
-
-4. If it works, codespace will trigger a port assignment and provide a URL for you to access your webpage like the one below.
-
- <img src="./images/websitelink.png" width="70%">
-
-
-5. You can also see the Port in the **PORTS** tab, next to the terminal tab.
-
-6. You can then access your website by adding an index.html towards the end of your url link, like the one below. 
-
- <img src="./images/helloworldweb.png" width="70%">
 
 ***Questions:***
 
