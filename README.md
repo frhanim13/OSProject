@@ -67,7 +67,8 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/34264cf6-db7e-4de2-9376-6516b2ad4bd2">
 
-<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/dc805296-24b9-4f12-8745-8d480ccaa70e">
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/d0203b5e-91fa-461d-9a03-43483bbc47df">
+
 
 
 
@@ -132,7 +133,7 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 
 ## Running your own container with persistent storage
 
-<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/d0e081fd-867a-4980-a26a-85f36cd389b8">
+
 
 
 1. In the previous experiment, you might have notice that containers are not persistent. To make storage persistent, you will need to mount them. 
@@ -150,7 +151,8 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 
 ***Questions:***
 
-1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)*** __Fill answer here__.
+1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)*** <br> <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/143d1c7c-1271-4f72-ae11-ffcb44180f6f"> <br> user : codespace <br>  group : codespace 
+
 2. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***
 ```bash
 //use sudo and chown
