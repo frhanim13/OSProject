@@ -38,14 +38,6 @@ VCPU: 4 <br>
 
 ## Exploring the Terminal
 
-1. Look at the TERMINAL tab. Explore and run commands according to the questions below. 
-2. You can include your answers as images, or cut and paste the output here. If you are cutting and pasting your answers, wrap your answers in the codeblock clause in markdown. For example, if i run the command **whoami** the the output would look like the one below.
-```bash
-@joeynor ➜ /workspaces/OSProject (main) $ whoami 
-codespace
-```
-
-
 
 ***Questions:***
 
@@ -70,6 +62,14 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __10:44:13 up 38 min, 0 users, load average: 1.05, 0.39, 0.28__.
 
 ## Running your own container instance.
+
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/b4ed1140-c61e-4446-9209-b9ab376483c2">
+
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/34264cf6-db7e-4de2-9376-6516b2ad4bd2">
+
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/dc805296-24b9-4f12-8745-8d480ccaa70e">
+
+
 
 1. At the terminal, run a linux instance. By typing the following command. 
 ```
@@ -131,6 +131,9 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 3. Can we run two, or three instances of debian linux? . ***(1 mark)*** Yes, either by virtualization or containers
 
 ## Running your own container with persistent storage
+
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/d0e081fd-867a-4980-a26a-85f36cd389b8">
+
 
 1. In the previous experiment, you might have notice that containers are not persistent. To make storage persistent, you will need to mount them. 
 At the terminal, create a new directory called **myroot**, and run a instance of debian linux and mount myroot to the container. Find out the exact path of my root, and mount it as the root folder in the debian container. 
