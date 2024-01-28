@@ -13,12 +13,8 @@ Team Mates:
 ***Questions:***
 
 1. What is the link of the fork OSProject in your repository. ***(1 mark)*** https://github.com/frhanim13/OSProject
-2. How many files and folders are in this repository. ***(1 mark)***
-   <ol type="a">
-  <li>1 readme.md </li>
-  <li>1 images folder </li>
-  <li>List 3</li>
-</ol> 
+2. How many files and folders are in this repository. ***(1 mark)*** 1 readme.md file , 1 images folder 
+ 
 
 
 ## Exploring github codespaces
