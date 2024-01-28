@@ -34,7 +34,7 @@ DISK: 32 GB <br>
 VCPU: 4 <br> 
    
 
-3.. Why must we commit and sync our current work on source control? ***(1 mark)*** So we will not lost our works and collaborators also got the latest version of the code. 
+3.. Why must we commit and sync our current work on source control? ***(1 mark)***   <br> So we will not lost our works and collaborators also got the latest version of the code. 
 
 ## Exploring the Terminal
 
