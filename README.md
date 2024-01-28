@@ -72,10 +72,10 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 
 
-6. Stop the container and run **docker ps -a**, and restart the container again. Is your file in the container still available? <br> ** YES **
+6. Stop the container and run **docker ps -a**, and restart the container again. Is your file in the container still available? <br> **YES**
 
 
-7. Stop the container and delete the container. What happened to your helloworld.txt? <br> ** it got deleted as well **
+7. Stop the container and delete the container. What happened to your helloworld.txt? <br> **it got deleted as well**
 
 
 
