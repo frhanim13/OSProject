@@ -151,7 +151,8 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 
 ***Questions:***
 
-1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)*** <br> <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/143d1c7c-1271-4f72-ae11-ffcb44180f6f"> <br> user : codespace <br>  group : codespace 
+1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)*** <br> <img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/cba86578-77ab-4684-93bf-f8100aa0a49e">
+ <br> user : codespace <br>  group : codespace 
 
 2. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***
 ```bash
@@ -159,7 +160,8 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 sudo chown -R codespace:codespace myroot
 
 ```
-*** __Fill answer here__.***
+<img width="1052" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/24b6a602-7e77-4d29-8565-467a341c3a30">
+
 
 ## You are on your own, create your own static webpage
 
