@@ -13,25 +13,25 @@ Team Mates:
 ***Questions:***
 
 1. What is the link of the fork OSProject in your repository. ***(1 mark)*** https://github.com/frhanim13/OSProject
-2. How many files and folders are in this repository. ***(1 mark)*** 1 readme.md file , 1 images folder 
+2. How many files and folders are in this repository. ***(1 mark)*** <br> 1 readme.md file , 1 images folder 
  
 
 
 ***Questions:***
 
 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***  Ubuntu linux 
-2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** <img width="763" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/0b36287a-5e55-47fa-b63a-ebece7a02850">
+2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***  <br>  <img width="763" alt="image" src="https://github.com/frhanim13/OSProject/assets/48370531/0b36287a-5e55-47fa-b63a-ebece7a02850">  <br> 
 Option 1 :
 
-RAM : 8 GB
-DISK: 32 GB 
-VCPU 2 CORE 
+RAM : 8 GB  <br> 
+DISK: 32 GB  <br> 
+VCPU 2 CORE  <br> 
 
-OPTION 2:
+OPTION 2: <br> 
 
-RAM:16 GB
-DISK: 32 GB
-VCPU: 4
+RAM:16 GB <br> 
+DISK: 32 GB <br> 
+VCPU: 4 <br> 
    
 
 3.. Why must we commit and sync our current work on source control? ***(1 mark)*** So we will not lost our works and collaborators also got the latest version of the code. 
